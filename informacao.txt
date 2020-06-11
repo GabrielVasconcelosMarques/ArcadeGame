@@ -1,0 +1,4 @@
+- Este é um jogo onde você deve ir acertando as respostas
+- Se errar você perde
+- Você deve digitar a resposta no espaço em vermelho
+e apertar em "Confirma Resposta" para responder
